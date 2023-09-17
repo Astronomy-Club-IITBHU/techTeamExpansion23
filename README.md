@@ -18,7 +18,7 @@ You are tasked with building a web application for a photo gallery with integrat
 - Firebase Integration:
     Utilize Firebase to manage and retrieve images. Employ Firebase Realtime Database to store metadata associated with each image (e.g., title, description).
 
-Once participants complete the task, host the app on services like (Netlify or Vercel) and raise a pull request on this repository with the link of your       hosted site in the description.
+Once participants complete the task, host the app on services like (Netlify or Vercel) and raise a pull request on this repository with your name, branch, and the link of your hosted site in the description.
 
 ## Bonus
 
