@@ -18,7 +18,7 @@ You are tasked with building a web application for a photo gallery with integrat
 - Firebase Integration:
     Utilize Firebase to manage and retrieve images. Employ Firebase Realtime Database to store metadata associated with each image (e.g., title, description).
 
-Once participants complete the task, host the app on services like (Netlify or Vercel) and raise a pull request on this repository with your name, branch, and the link of your hosted site in the description.
+Once participants complete the task, host the app on services like (Netlify or Vercel) and raise a pull request on this repository with your name, branch, and the link of your hosted site in the submissions (as in an example).
 
 ## Bonus
 
@@ -42,3 +42,9 @@ The deadline for completing this task is the end of the day (EOD) on Sept 21st.
 - Participants are free to use any framework of their choice for building the form and UI. They can select from popular options such as React, Angular, Vue.js, or any other framework they are comfortable with.
 
 - We encourage you to write clean and well-documented code. This will make reviewing your submissions easier and allow for better evaluation of your skills.
+
+## Submissions
+
+<!-- - Add you name in below list as -->
+<!-- - Your Name - [Repo Name](Link) [Website](Website Link) -->
+<!-- - Manash Kumar - [WebsiteRepo](https://github.com/SagittariusA11/WebsiteRepo) [Website](https://SagittariusA11.github.io/Website/#/) -->
