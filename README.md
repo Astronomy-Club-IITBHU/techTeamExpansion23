@@ -48,3 +48,5 @@ The deadline for completing this task is the end of the day (EOD) on Sept 21st.
 <!-- - Add you name in below list as -->
 <!-- - Your Name - [Repo Name](Link) [Website](Website Link) -->
 <!-- - Manash Kumar - [WebsiteRepo](https://github.com/SagittariusA11/WebsiteRepo) [Website](https://SagittariusA11.github.io/Website/#/) -->
+
+- Shashwat Yadav - Mechanical [Image-Gallery](https://github.com/Shashwat-y/Image-Gallery) [Website](https://main--peaceful-semolina-2e9f9f.netlify.app/)
