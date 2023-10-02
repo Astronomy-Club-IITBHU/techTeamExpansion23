@@ -1,0 +1,26 @@
+{
+  "name": "astrotech",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "firebase": "^10.4.0",
+    "gsap": "^3.12.2",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "^4.11.0",
+    "swiper": "^10.3.1",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest"
+  }
+}
