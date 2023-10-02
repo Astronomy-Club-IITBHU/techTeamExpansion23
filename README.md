@@ -1,50 +1,36 @@
-# Task: Photo Gallery with Firebase Integration
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Description
+## Getting Started
 
-You are tasked with building a web application for a photo gallery with integrated [Firebase](https://firebase.google.com/docs/firestore) functionality. The application should provide a seamless experience for users to view and interact with a collection of images.
+First, run the development server:
 
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Task Requirements
-- Display Images:
-    Create a grid layout displaying thumbnail images sourced from Firebase Storage. Design and implement an eye-catching user interface (UI) for the gallery. Participants are free to choose any framework they prefer for building the UI (React is preferred).
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- Modal Popup:
-    Implement a feature where clicking on a thumbnail opens a modal displaying the full-sized image.
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-- Navigation:
-    Enable users to navigate between images within the modal view easily.
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-- Firebase Integration:
-    Utilize Firebase to manage and retrieve images. Employ Firebase Realtime Database to store metadata associated with each image (e.g., title, description).
+## Learn More
 
-Once participants complete the task, host the app on services like (Netlify or Vercel) and raise a pull request on this repository with your name, branch, and the link of your hosted site in the submissions (as in an example).
+To learn more about Next.js, take a look at the following resources:
 
-## Bonus
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-- Search/Filter Functionality
-- Transitions/Animations
-  
-## Deadline
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-The deadline for completing this task is the end of the day (EOD) on Sept 21st.
+## Deploy on Vercel
 
-## Evaluation Criteria
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-- Code quality, organization, and readability.
-- Effective utilization of React components, state management, and props.
-- Successful integration of Firebase.
-- User interface design and overall user experience.
-- Implementation of bonus features (if attempted).
-
-## Additional Notes
-
-- Participants are free to use any framework of their choice for building the form and UI. They can select from popular options such as React, Angular, Vue.js, or any other framework they are comfortable with.
-
-- We encourage you to write clean and well-documented code. This will make reviewing your submissions easier and allow for better evaluation of your skills.
-
-## Submissions
-
-<!-- - Add you name in below list as -->
-<!-- - Your Name - [Repo Name](Link) [Website](Website Link) -->
-<!-- - Manash Kumar - [WebsiteRepo](https://github.com/SagittariusA11/WebsiteRepo) [Website](https://SagittariusA11.github.io/Website/#/) -->
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
